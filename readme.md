@@ -23,6 +23,7 @@ Ensure that you have the following installed:
 
 ## Output
 
+![Screenshot 2024-08-26 140809](https://github.com/user-attachments/assets/04bc3614-b5e4-4617-b5e3-c1b516bc100a)
 
 ![aws-storage](https://github.com/user-attachments/assets/def5269d-f429-4620-bb53-ac6288103c5b)
 ![Screenshot 2024-08-26 140354](https://github.com/user-attachments/assets/bacfa587-99c1-44df-af26-e3744943bd81)
